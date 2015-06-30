@@ -13,4 +13,3 @@ echo Hostname: $HOSTNAME
 # $SECONDS - The number of seconds since the script was started.
 # $RANDOM - Returns a different random number each time is it referred to.
 # $LINENO - Returns the current line number in the Bash script.
-
