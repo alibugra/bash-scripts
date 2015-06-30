@@ -1,5 +1,5 @@
 #!/bin/bash
-file="./file"
+file="./hello.sh"
 if [ -e $file ]; then
 	echo "File exists"
 else 
